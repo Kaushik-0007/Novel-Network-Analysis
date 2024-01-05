@@ -1,1 +1,4 @@
-# Novel-Network-Analysis
+#  Unveiling Social Structures in Wizardry: A Network Analysis of "Harry Potter and the Sorcerer's Stone"
+
+This study delves into the intricate social dynamics depicted within J.K. Rowling's masterpiece, "Harry Potter and the Sorcerer's Stone," employing advanced network analysis techniques. Focusing on character interactions, we utilized NetworkX, a Python library, to extract meaningful insights from the narrative. The analysis covered key metrics, revealing the graph's density, average clustering coefficient, and diameter. The density, approximately 0.51, signifies a moderately connected social graph, while the high average clustering coefficient (0.73) suggests cohesive groups within the magical world of Hogwarts. The small diameter of 3 indicates efficient communication and a small-world property, mirroring real-world social networks. This novel approach sheds light on the underlying social structures within the wizarding realm, providing a unique perspective on the relationships and communities depicted in "Harry Potter and the Sorcerer's Stone."
+
